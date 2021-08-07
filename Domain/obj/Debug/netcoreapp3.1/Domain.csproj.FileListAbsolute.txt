@@ -1,0 +1,35 @@
+F:\My Project\TimeSeriesNew\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+F:\My Project\TimeSeriesNew\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+F:\My Project\TimeSeriesNew\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+F:\My Project\TimeSeriesNew\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+F:\My Project\TimeSeriesNew\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\My Project\TimeSeriesNew\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+F:\My Project\TimeSeriesNew\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+F:\My Project\TimeSeriesNew\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+F:\My Project\TimeSeriesNew\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+F:\My Project\TimeSeriesNew\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+F:\My Project\TimeSeriesNew\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache
+F:\Mypro\TimeSeriesNew\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+F:\Mypro\TimeSeriesNew\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+F:\Mypro\TimeSeriesNew\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+F:\Mypro\TimeSeriesNew\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+F:\Mypro\TimeSeriesNew\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\Mypro\TimeSeriesNew\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+F:\Mypro\TimeSeriesNew\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+F:\Mypro\TimeSeriesNew\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+F:\Mypro\TimeSeriesNew\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+F:\Mypro\TimeSeriesNew\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+F:\Mypro\TimeSeriesNew\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache
+F:\Mypro\TimeSeriesNew\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+F:\Mypro\TimeSeriesMVC\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+F:\Mypro\TimeSeriesMVC\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+F:\Mypro\TimeSeriesMVC\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+F:\Mypro\TimeSeriesMVC\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+F:\Mypro\TimeSeriesMVC\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\Mypro\TimeSeriesMVC\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+F:\Mypro\TimeSeriesMVC\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+F:\Mypro\TimeSeriesMVC\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+F:\Mypro\TimeSeriesMVC\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+F:\Mypro\TimeSeriesMVC\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+F:\Mypro\TimeSeriesMVC\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+F:\Mypro\TimeSeriesMVC\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache

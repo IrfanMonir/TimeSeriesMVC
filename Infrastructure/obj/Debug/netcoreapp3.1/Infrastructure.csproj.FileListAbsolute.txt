@@ -1,0 +1,51 @@
+F:\My Project\TimeSeriesNew\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+F:\My Project\TimeSeriesNew\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+F:\My Project\TimeSeriesNew\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+F:\My Project\TimeSeriesNew\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+F:\My Project\TimeSeriesNew\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+F:\My Project\TimeSeriesNew\Infrastructure\bin\Debug\netcoreapp3.1\Application.dll
+F:\My Project\TimeSeriesNew\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+F:\My Project\TimeSeriesNew\Infrastructure\bin\Debug\netcoreapp3.1\Application.pdb
+F:\My Project\TimeSeriesNew\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\My Project\TimeSeriesNew\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+F:\My Project\TimeSeriesNew\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+F:\My Project\TimeSeriesNew\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+F:\My Project\TimeSeriesNew\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+F:\My Project\TimeSeriesNew\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+F:\My Project\TimeSeriesNew\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+F:\My Project\TimeSeriesNew\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+F:\My Project\TimeSeriesNew\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache
+F:\Mypro\TimeSeriesNew\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+F:\Mypro\TimeSeriesNew\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+F:\Mypro\TimeSeriesNew\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+F:\Mypro\TimeSeriesNew\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+F:\Mypro\TimeSeriesNew\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+F:\Mypro\TimeSeriesNew\Infrastructure\bin\Debug\netcoreapp3.1\Application.dll
+F:\Mypro\TimeSeriesNew\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+F:\Mypro\TimeSeriesNew\Infrastructure\bin\Debug\netcoreapp3.1\Application.pdb
+F:\Mypro\TimeSeriesNew\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\Mypro\TimeSeriesNew\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+F:\Mypro\TimeSeriesNew\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+F:\Mypro\TimeSeriesNew\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+F:\Mypro\TimeSeriesNew\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+F:\Mypro\TimeSeriesNew\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+F:\Mypro\TimeSeriesNew\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+F:\Mypro\TimeSeriesNew\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+F:\Mypro\TimeSeriesNew\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache
+F:\Mypro\TimeSeriesMVC\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+F:\Mypro\TimeSeriesMVC\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+F:\Mypro\TimeSeriesMVC\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+F:\Mypro\TimeSeriesMVC\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+F:\Mypro\TimeSeriesMVC\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+F:\Mypro\TimeSeriesMVC\Infrastructure\bin\Debug\netcoreapp3.1\Application.dll
+F:\Mypro\TimeSeriesMVC\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+F:\Mypro\TimeSeriesMVC\Infrastructure\bin\Debug\netcoreapp3.1\Application.pdb
+F:\Mypro\TimeSeriesMVC\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\Mypro\TimeSeriesMVC\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+F:\Mypro\TimeSeriesMVC\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+F:\Mypro\TimeSeriesMVC\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+F:\Mypro\TimeSeriesMVC\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+F:\Mypro\TimeSeriesMVC\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+F:\Mypro\TimeSeriesMVC\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+F:\Mypro\TimeSeriesMVC\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+F:\Mypro\TimeSeriesMVC\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache

@@ -1,0 +1,176 @@
+﻿@model IEnumerable<Application.Readings.ReadingsDto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Time Series</h1>
+
+@*<p>
+        <a asp-action="Create">Create New</a>
+    </p>*@
+
+<div class="row col-12">
+    <div class="col-2">
+        <label class="">Start Date</label>
+        <select id="Buildings" asp-items="@ViewBag.Buildings" class="form-control">
+            <option value="">Select Building</option>
+        </select>
+
+    </div>
+    <div class="col-2">
+        <label class="">Start Date</label>
+        <select id="Objects" asp-items="@ViewBag.Objects" class="form-control">
+            <option value="">Select Object</option>
+        </select>
+
+    </div>
+    <div class="col-2">
+        <label class="">Start Date</label>
+        <select id="DataFields" asp-items="@ViewBag.DataFields" class="form-control">
+            <option value="">Select Data Field</option>
+        </select>
+
+    </div>
+
+    <div class="col-2">
+        <label class="">Start Date</label>
+        <input class="form-control" type="datetime-local" id="startDate">
+    </div>
+
+    <div class="col-2">
+        <label class="">End Date</label>
+        <input class="form-control" type="datetime-local" id="EndDate">
+    </div>
+    <div class="col-2" style="margin-top:29px!important">
+        @*<label class=""></label>*@
+        <input type="button" class="btn btn-primary" value="Search" id="search" />
+    </div>
+
+
+</div>
+
+<hr />
+<br />
+
+<div id="test123">
+    <div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+</div>
+
+@section Scripts
+{
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.getJSON("/Home/GetData", function (data) {
+                var Names = []
+                var Qts = []
+                for (var i = 0; i < data.length; i++) {
+                    Names.push(data[i].name);
+                    Qts.push(data[i].count);
+                }
+
+                Highcharts.chart('container', {
+                    chart: {
+                        type: 'line'
+                    },
+
+                    xAxis: {
+                        categories: Names
+                    },
+                    yAxis: {
+                        title: {
+                            text: 'Value'
+                        }
+                    },
+                    plotOptions: {
+                        line: {
+                            dataLabels: {
+                                enabled: true
+                            },
+                            enableMouseTracking: false
+                        }
+                    },
+                    series: [{
+                        name: 'Trend',
+                        data: Qts
+                    }]
+                });
+            });
+        });
+
+        $(document).ready(function () {
+            $("#search").click(function () {
+
+                $("#container").remove();
+                var Buildings = $("#Buildings").val();
+                var Objects = $("#Objects").val();
+                var DataFields = $("#DataFields").val();
+                var startDate = $("#startDate").val();
+                var EndDate = $("#EndDate").val();
+                var data = new FormData();
+                data.append("BuildingId", Buildings);
+                data.append("ObjectId", Objects);
+                data.append("DatafeildId", DataFields);
+                data.append("StartTime", startDate);
+                data.append("EndTime", EndDate);
+
+                $.ajax({
+
+                    type: "POST",
+                    url: "/Home/GetDatawithid",
+                    processData: false,
+                    contentType: false,
+                    data: (data),
+                    success: function (data) {
+                        var rows = '<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>';
+                        $('#test123').append(rows);
+                        var Names = []
+                        var Qts = []
+                        for (var i = 0; i < data.length; i++) {
+                            Names.push(data[i].name);
+                            Qts.push(data[i].count);
+                        }
+
+                        Highcharts.chart('container', {
+                            chart: {
+                                type: 'line'
+                            },
+
+                            xAxis: {
+                                categories: Names
+                            },
+                            yAxis: {
+                                title: {
+                                    text: 'Value'
+                                }
+                            },
+                            plotOptions: {
+                                line: {
+                                    dataLabels: {
+                                        enabled: true
+                                    },
+                                    enableMouseTracking: false
+                                }
+                            },
+                            series: [{
+                                name: 'Trend',
+                                data: Qts
+                            }]
+                        });
+
+                    },
+                    error: function (e) {
+                        console.log(e);
+                    }
+
+                })
+
+
+            });
+        });
+    </script>
+}
