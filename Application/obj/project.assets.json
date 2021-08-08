@@ -6226,23 +6226,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO\\.nuget\\packages\\": {},
+    "C:\\Users\\Moniruzzaman-ERP\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Mypro\\TimeSeriesMVC\\Application\\Application.csproj",
+      "projectUniqueName": "D:\\TimeSeries MVC\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "F:\\Mypro\\TimeSeriesMVC\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "F:\\Mypro\\TimeSeriesMVC\\Application\\obj\\",
+      "projectPath": "D:\\TimeSeries MVC\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\Moniruzzaman-ERP\\.nuget\\packages\\",
+      "outputPath": "D:\\TimeSeries MVC\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Moniruzzaman-ERP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6256,8 +6256,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "F:\\Mypro\\TimeSeriesMVC\\Domain\\Domain.csproj": {
-              "projectPath": "F:\\Mypro\\TimeSeriesMVC\\Domain\\Domain.csproj"
+            "D:\\TimeSeries MVC\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\TimeSeries MVC\\Domain\\Domain.csproj"
             }
           }
         }
@@ -6332,7 +6332,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
