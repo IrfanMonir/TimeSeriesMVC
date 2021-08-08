@@ -6206,11 +6206,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TimeSeries MVC\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\TimeSeriesMVC\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\TimeSeries MVC\\Domain\\Domain.csproj",
+      "projectPath": "D:\\TimeSeriesMVC\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Moniruzzaman-ERP\\.nuget\\packages\\",
-      "outputPath": "D:\\TimeSeries MVC\\Domain\\obj\\",
+      "outputPath": "D:\\TimeSeriesMVC\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

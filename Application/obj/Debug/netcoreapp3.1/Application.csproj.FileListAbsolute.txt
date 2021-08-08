@@ -43,3 +43,33 @@ F:\Mypro\TimeSeriesMVC\Application\obj\Debug\netcoreapp3.1\Application.csproj.Co
 F:\Mypro\TimeSeriesMVC\Application\obj\Debug\netcoreapp3.1\Application.dll
 F:\Mypro\TimeSeriesMVC\Application\obj\Debug\netcoreapp3.1\Application.pdb
 F:\Mypro\TimeSeriesMVC\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache
+D:\TimeSeries MVC\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\TimeSeries MVC\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+D:\TimeSeries MVC\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+D:\TimeSeries MVC\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\TimeSeries MVC\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\TimeSeries MVC\Application\bin\Debug\netcoreapp3.1\Domain.dll
+D:\TimeSeries MVC\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\TimeSeries MVC\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+D:\TimeSeries MVC\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\TimeSeries MVC\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\TimeSeries MVC\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\TimeSeries MVC\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\TimeSeries MVC\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\TimeSeries MVC\Application\obj\Debug\netcoreapp3.1\Application.pdb
+D:\TimeSeries MVC\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache
+D:\TimeSeriesMVC\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\TimeSeriesMVC\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+D:\TimeSeriesMVC\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+D:\TimeSeriesMVC\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\TimeSeriesMVC\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\TimeSeriesMVC\Application\bin\Debug\netcoreapp3.1\Domain.dll
+D:\TimeSeriesMVC\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\TimeSeriesMVC\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+D:\TimeSeriesMVC\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\TimeSeriesMVC\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\TimeSeriesMVC\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\TimeSeriesMVC\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\TimeSeriesMVC\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\TimeSeriesMVC\Application\obj\Debug\netcoreapp3.1\Application.pdb
+D:\TimeSeriesMVC\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache

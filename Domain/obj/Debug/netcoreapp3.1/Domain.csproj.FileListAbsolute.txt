@@ -33,3 +33,27 @@ F:\Mypro\TimeSeriesMVC\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileI
 F:\Mypro\TimeSeriesMVC\Domain\obj\Debug\netcoreapp3.1\Domain.dll
 F:\Mypro\TimeSeriesMVC\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
 F:\Mypro\TimeSeriesMVC\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache
+D:\TimeSeries MVC\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\TimeSeries MVC\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+D:\TimeSeries MVC\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+D:\TimeSeries MVC\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\TimeSeries MVC\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\TimeSeries MVC\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+D:\TimeSeries MVC\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\TimeSeries MVC\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\TimeSeries MVC\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\TimeSeries MVC\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\TimeSeries MVC\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\TimeSeries MVC\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache
+D:\TimeSeriesMVC\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\TimeSeriesMVC\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+D:\TimeSeriesMVC\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+D:\TimeSeriesMVC\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\TimeSeriesMVC\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\TimeSeriesMVC\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+D:\TimeSeriesMVC\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\TimeSeriesMVC\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\TimeSeriesMVC\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\TimeSeriesMVC\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\TimeSeriesMVC\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\TimeSeriesMVC\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache

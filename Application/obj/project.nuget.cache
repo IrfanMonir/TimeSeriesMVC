@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eYw4hDE2uGQmnZCRBj1y9KIN/j6Cbwfc7t2g5/FEgovbH1tL870ZhKrBMUEHbDQCbdWDy5ZScmDbdWKiUNG3cg==",
+  "dgSpecHash": "eGaP/o+mCu00Rccy2sxeitC+pjdHZL2KFXwxh2rG7O6KtoFAKmLxBNW7CTNw3R5ouH0wTPAVg2F8mF5v6rcKGA==",
   "success": true,
-  "projectFilePath": "D:\\TimeSeries MVC\\Application\\Application.csproj",
+  "projectFilePath": "D:\\TimeSeriesMVC\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Moniruzzaman-ERP\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Moniruzzaman-ERP\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

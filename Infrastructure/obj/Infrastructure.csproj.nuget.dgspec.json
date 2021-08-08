@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TimeSeries MVC\\Infrastructure\\Infrastructure.csproj": {}
+    "D:\\TimeSeriesMVC\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\TimeSeries MVC\\Application\\Application.csproj": {
+    "D:\\TimeSeriesMVC\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TimeSeries MVC\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\TimeSeriesMVC\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\TimeSeries MVC\\Application\\Application.csproj",
+        "projectPath": "D:\\TimeSeriesMVC\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Moniruzzaman-ERP\\.nuget\\packages\\",
-        "outputPath": "D:\\TimeSeries MVC\\Application\\obj\\",
+        "outputPath": "D:\\TimeSeriesMVC\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\TimeSeries MVC\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\TimeSeries MVC\\Domain\\Domain.csproj"
+              "D:\\TimeSeriesMVC\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\TimeSeriesMVC\\Domain\\Domain.csproj"
               }
             }
           }
@@ -111,14 +111,14 @@
         }
       }
     },
-    "D:\\TimeSeries MVC\\Domain\\Domain.csproj": {
+    "D:\\TimeSeriesMVC\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TimeSeries MVC\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\TimeSeriesMVC\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\TimeSeries MVC\\Domain\\Domain.csproj",
+        "projectPath": "D:\\TimeSeriesMVC\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Moniruzzaman-ERP\\.nuget\\packages\\",
-        "outputPath": "D:\\TimeSeries MVC\\Domain\\obj\\",
+        "outputPath": "D:\\TimeSeriesMVC\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -214,14 +214,14 @@
         }
       }
     },
-    "D:\\TimeSeries MVC\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\TimeSeriesMVC\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TimeSeries MVC\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\TimeSeriesMVC\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\TimeSeries MVC\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\TimeSeriesMVC\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Moniruzzaman-ERP\\.nuget\\packages\\",
-        "outputPath": "D:\\TimeSeries MVC\\Infrastructure\\obj\\",
+        "outputPath": "D:\\TimeSeriesMVC\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -241,8 +241,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\TimeSeries MVC\\Application\\Application.csproj": {
-                "projectPath": "D:\\TimeSeries MVC\\Application\\Application.csproj"
+              "D:\\TimeSeriesMVC\\Application\\Application.csproj": {
+                "projectPath": "D:\\TimeSeriesMVC\\Application\\Application.csproj"
               }
             }
           }
